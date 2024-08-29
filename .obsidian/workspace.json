@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "440b43873a135a6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "42ecd770f171660b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44c93f9db3086d1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bandit/Level 9 → Level 10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8700545965514fd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f35865d658624072",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a05477e44ac8230",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec88f667eb7d11fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2388003fc2efc787",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e56535bd7a33a3c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f8507ec677c7b83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d77cb0ce0c0fd77",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bandit/Level 9 → Level 10.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b8fb9dedbc3d14e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bandit/Level 9 → Level 10.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3cd607e8663c50f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a79d4604c1b744c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bandit/Level 9 → Level 10.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "44c93f9db3086d1a",
+  "lastOpenFiles": [
+    "NOTES-SEGURIDAD",
+    "CIBERSEGURDAD",
+    "Bandit/Level 8 → Level 9.md",
+    "Bandit/Level 9 → Level 10.md",
+    "Bandit/Level 7 → Level 8.md",
+    "Bandit/Level 6 → Level 7.md",
+    "Bandit/Level 5 → Level 6.md",
+    "Bandit/Level 4 → Level 5.md",
+    "Bandit/Level 3 → Level 4.md",
+    "Bandit/Level 2 → Level 3.md",
+    "Bandit/Level 1 → Level 2.md",
+    "Bandit/Level 0 → Level 1.md",
+    "Bandit/Level 0.md",
+    "README.md",
+    "PLANTILLA.md",
+    "Bandit",
+    "Untitled.canvas",
+    "CIBERSEGURIDAD",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "PICOCTF/REVERSING/Parte 2/ASM1.md",
+    "PICOCTF/REVERSING/Vault-Door-3.md",
+    "PICOCTF/REVERSING/Parte 2",
+    "PICOCTF/REVERSING/Vault-Door-1.md",
+    "PICOCTF/CRIPTOGRAFIA/EASY1.md",
+    "PICOCTF/CRIPTOGRAFIA/3RA PARTE/MIND your Ps and Qs.md",
+    "PICOCTF/REVERSING",
+    "PICOCTF/CRIPTOGRAFIA/CAESAR.md",
+    "PICOCTF/CRIPTOGRAFIA/LA CIFRA DE ....md",
+    "PICOCTF/CRIPTOGRAFIA/3RA PARTE",
+    "PICOCTF/CRIPTOGRAFIA/TAPPING.md",
+    "PICOCTF/Untitled.md",
+    "PICOCTF/CRIPTOGRAFIA/THE NUMBERS.md",
+    "PICOCTF/CRIPTOGRAFIA",
+    "PICOCTF"
+  ]
+}
