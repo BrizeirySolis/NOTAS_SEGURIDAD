@@ -11,11 +11,9 @@
             "id": "d06934b5e4d3bbf2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "CTF METARED2024/Fancy Cipher  100.md",
-                "mode": "source",
-                "source": false
+                "file": "NOTAS_SEGURIDAD/CTF METARED2024/Pasted image 20241015195437.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF METARED2024/Fancy Cipher  100.md",
+                "file": "NOTAS_SEGURIDAD/CTF METARED2024/Pasted image 20241015195437.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF METARED2024/Fancy Cipher  100.md",
+                "file": "NOTAS_SEGURIDAD/CTF METARED2024/Pasted image 20241015195437.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF METARED2024/Fancy Cipher  100.md"
+                "file": "NOTAS_SEGURIDAD/CTF METARED2024/Pasted image 20241015195437.png"
               }
             }
           }
@@ -148,11 +146,11 @@
   },
   "active": "53b158d8b0ed9e24",
   "lastOpenFiles": [
-    "CTF METARED2024/Thermal Camera.md",
-    "Pasted image 20241015195437.png",
-    "CTF METARED2024/Fancy Cipher  100.md",
+    "NOTAS_SEGURIDAD/CTF METARED2024/Fancy Cipher  100.md",
+    "NOTAS_SEGURIDAD/CTF METARED2024/Thermal Camera.md",
+    "NOTAS_SEGURIDAD/CTF METARED2024/Pasted image 20241015195437.png",
     "NOTAS_SEGURIDAD/Plantilla.md",
-    "CTF METARED2024",
+    "NOTAS_SEGURIDAD/CTF METARED2024",
     "NOTAS_SEGURIDAD/picoCTF/Sin nombre 4",
     "NOTAS_SEGURIDAD/picoCTF/Sin nombre 3",
     "NOTAS_SEGURIDAD/picoCTF/Sin nombre 2",
