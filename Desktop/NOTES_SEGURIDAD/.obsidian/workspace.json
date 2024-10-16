@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "35e443788371f09e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3e482a2f5391b76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d06934b5e4d3bbf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTF METARED2024/Fancy Cipher  100.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ea361ab0483325a",
+    "type": "split",
+    "children": [
+      {
+        "id": "408369844907419b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53b158d8b0ed9e24",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a417b3ab6265d6a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e2e267fa098d26b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217.5
+  },
+  "right": {
+    "id": "02ae9d7cdfb31aea",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee9f31c74e965373",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0524d5623c89ee70",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CTF METARED2024/Fancy Cipher  100.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c076751e22135f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CTF METARED2024/Fancy Cipher  100.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ea13a7fad8952ebd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "245f90cbbb64f1e2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CTF METARED2024/Fancy Cipher  100.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "53b158d8b0ed9e24",
+  "lastOpenFiles": [
+    "CTF METARED2024/Thermal Camera.md",
+    "Pasted image 20241015195437.png",
+    "CTF METARED2024/Fancy Cipher  100.md",
+    "NOTAS_SEGURIDAD/Plantilla.md",
+    "CTF METARED2024",
+    "NOTAS_SEGURIDAD/picoCTF/Sin nombre 4",
+    "NOTAS_SEGURIDAD/picoCTF/Sin nombre 3",
+    "NOTAS_SEGURIDAD/picoCTF/Sin nombre 2",
+    "NOTAS_SEGURIDAD/picoCTF/Sin nombre 1 1",
+    "NOTAS_SEGURIDAD/picoCTF/Sin nombre 1",
+    "NOTAS_SEGURIDAD/picoCTF/Sin nombre",
+    "NOTAS_SEGURIDAD/picoCTF",
+    "NOTAS_SEGURIDAD/Bandit/Level 27 → Level 28.md",
+    "NOTAS_SEGURIDAD/Bandit/Level 26 → Level 27.md",
+    "NOTAS_SEGURIDAD/Bandit/Level 25 → Level 26.md",
+    "NOTAS_SEGURIDAD/Bandit/Level 24 → Level 25.md",
+    "NOTAS_SEGURIDAD/Bandit/Level 23 → Level 24.md",
+    "NOTAS_SEGURIDAD/Bandit/Level 22 → Level 23.md",
+    "NOTAS_SEGURIDAD/Bandit/Level 21 → Level 22.md",
+    "NOTAS_SEGURIDAD/Bandit/Level 20 → Level 21.md",
+    "NOTAS_SEGURIDAD/Bandit/Level 19 → Level 20.md",
+    "Sin título 7.md",
+    "Level 28 → Level 29.md",
+    "NOTAS_SEGURIDAD/Bandit/Level 18 → Level 19.md",
+    "NOTAS_SEGURIDAD/Bandit/Level 17 → Level 18.md",
+    "NOTAS_SEGURIDAD/Bandit/Level 16 → Level 17.md",
+    "NOTAS_SEGURIDAD/Bandit/Level 15 → Level 16.md",
+    "NOTAS_SEGURIDAD/Bandit/Level 14 → Level 15.md"
+  ]
+}
