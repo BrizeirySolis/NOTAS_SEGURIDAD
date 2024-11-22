@@ -1,13 +1,10 @@
-## Objetivo
+## Introducción
 
-## Datos Acceso 
 
-Server :  
-Password :
 ## Comandos
 
 
-## Codigo 
+## Código 
 ```
 ```
 
