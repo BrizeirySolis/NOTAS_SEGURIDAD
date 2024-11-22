@@ -8,4 +8,5 @@ There's 3 parts
 Inspeccionamos el codigo html de la pagina despues el css y por ultimo el js al final de cada archivo encontraremos una parte de la bandera
 
 ## Solución
-picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?f10be399}
+picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?832b0699}
+

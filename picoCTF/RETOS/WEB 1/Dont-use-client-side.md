@@ -8,7 +8,7 @@ Server-side: el procesamiento es en el servidor, procesamiento dinamico, increme
 
 La validacion del pass queda del lado del cliente y vemos que la manera de comprobacion es atravez de un arreglo de caracteres 
 tomando una subcadena desde la posicion 0 hasta la longitud, haciendolo a cadena a diferentes posiciones.segun el orden en el arreglo.
-
+![[Pasted image 20241122131437.png]]
 ## Solución 
 
-picoCTF{no_clients_plz_b706c5}
+picoCTF{no_clients_plz_7723ce}
