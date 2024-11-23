@@ -1,7 +1,0 @@
-## Introducción
-
-## Descripción
-
-## Comandos
-
-## Solución 
