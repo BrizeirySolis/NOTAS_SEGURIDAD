@@ -1,11 +1,5 @@
 ## Introducción
 
+## Descripción
 
-## Comandos
-
-
-## Código 
-```
-```
-
-## Solución
+## Solución 
