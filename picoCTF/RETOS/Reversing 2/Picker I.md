@@ -1,4 +1,4 @@
-## Introducción
+## Introducción.
 This service can provide you with a random number, but can it do anything else?Connect to the program with netcat:`$ nc saturn.picoctf.net 61394`The program's source code can be downloaded [here](https://artifacts.picoctf.net/c/513/picker-I.py).
 
 1.-Can you point the program to a function that does something useful for you?

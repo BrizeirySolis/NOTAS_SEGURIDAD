@@ -1,4 +1,4 @@
-## Introducción
+## Introducción.
 Can you figure out how this program works to get the flag?Connect to the program with netcat:`$ nc saturn.picoctf.net 57005`The program's source code can be downloaded [here](https://artifacts.picoctf.net/c/525/picker-III.py).
 
 1.-Is there any way to modify the function table?

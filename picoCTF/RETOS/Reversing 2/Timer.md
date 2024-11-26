@@ -1,4 +1,4 @@
-## Introducción
+## Introducción.
 You will find the flag after analysing this apkDownload [here](https://artifacts.picoctf.net/c/449/timer.apk).
 
 1.-Decompile

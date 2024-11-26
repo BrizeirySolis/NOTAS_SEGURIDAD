@@ -1,4 +1,4 @@
-## Introducción
+## Introducción.
 Can you figure out how this program works to get the flag?Connect to the program with netcat:`$ nc saturn.picoctf.net 49844`The program's source code can be downloaded [here](https://artifacts.picoctf.net/c/522/picker-II.py).
 
 1.-Can you do what `win` does with your input to the program?
